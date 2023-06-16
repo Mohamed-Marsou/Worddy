@@ -11,7 +11,7 @@ export default {
         Introducing our user-friendly dictionary app: "Worddy" created by <a href="/#">MTM</a>. Discover the meaning of any word in a
         flash! Just enter a single word, and let Worddy do the rest. It provides instant definitions along with audio
         pronunciation, making learning a breeze. Enhance your vocabulary on the go with WordSense - your trusted word
-        companion. Get ready to explore the world of words with ease and clarity. Experience WordSense today and unlock the
+        companion. Get ready to explore the world of words with ease and clarity. Experience Worddy today and unlock the
         power of language!
        </h1>
     </div>
