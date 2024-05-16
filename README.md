@@ -13,6 +13,7 @@ Introducing our user-friendly dictionary app: **Worddy**. It's created by MTM. D
 
 Experience Worddy today and unlock the power of language! Visit our [GitHub repository](https://github.com/Mohamed-Marsou/Worddy) for more details and to get started. Give it a 10/10 and let us know your feedback. Happy word exploring!
 
+![screencapture-localhost-5173-2024-05-16-16_15_20](https://github.com/Mohamed-Marsou/Worddy/assets/108639018/e458af7d-bbdc-4f62-b7fa-0f221faf5d69)
 
 
 
